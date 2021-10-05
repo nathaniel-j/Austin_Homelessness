@@ -1,6 +1,6 @@
 # Austin_Homelessness
 ### Description and analysis of homelessness in Austin, TX. 
-With this project I am performing a thorough description and analysis of homelessness in Austin within the context of Texas and the US. The analysis will have 3 principle componanats:
+With this project I am performing a thorough description and analysis of homelessness in Austin within the context of Texas and the US. The analysis will have 3 principle components:
 
 1) Describe and compare general trends in homelessness across the city, state and national levels. This will answer broad questions like:
 - how many people are homeless each year?
