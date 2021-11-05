@@ -26,7 +26,14 @@ The city of Austin currently measures its homeless population and its performanc
 This is the Point-In-Time count for Austin since 2007.
 ![austin_pit](austin_pit.png)
 
-Looking into the data collected by the homelessness Continuum of Care (CoC) providers and organized into a federally operated database called the Homeless Management Information System (HMIS), I discovered that the homeless population is not static at all, but actually quite dynamic. Below 
+Looking into the data collected by the homelessness Continuum of Care (CoC) providers and organized into a federally operated database called the Homeless Management Information System (HMIS), I discovered that the homeless population is not static at all, but actually quite dynamic. In 2020, around 70% of the people that recieved assistance from a CoC facility in Austin were experiencing homelessness for the first time, and about 75% of the people that received assistance moved into either permanent housing or to an unknown location. 
 
-![austin_coc]()
+![austin_coc](coc_breakdown.png)
+
+The current metrics do not convey this aspect of the homelessness problem, so the progams put in place to address homelessness are based on an incomplete understanding of the issue.
+
+### The Solution:
+---
+
+If we visualize homelessness as a dynamic flow, we can gain insight into how to combat it and how to measure the results of our efforts. Below is a    
 
