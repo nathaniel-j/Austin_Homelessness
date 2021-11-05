@@ -35,5 +35,10 @@ The current metrics do not convey this aspect of the homelessness problem, so th
 ### The Solution:
 ---
 
-If we visualize homelessness as a dynamic flow, we can gain insight into how to combat it and how to measure the results of our efforts. Below is a    
+If we visualize homelessness as a dynamic flow, we can gain insight into how to combat it and how to measure the results of our efforts. Below is a diagram of how we can think about the flow of indivuals through homelessness.      
 
+![model](homelessness_diagram.jpg)
+
+While the flow of the unsheltered homeless population is currently very difficult to accurately measure, there are already CoC measurements in place to build a diagram that captures the flow of the sheltered homeless population. Using the [CoC System Performance Measures](https://www.hudexchange.info/resource/5793/national-summary-system-performance-measures-2015-2017/) data, I created a visualization of Austin homelessness in 2020 that presents a more complete picture of CoC performance than the dashboard visualizations currently in use.
+
+[sankey]()
