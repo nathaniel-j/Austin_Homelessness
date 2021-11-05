@@ -23,5 +23,10 @@ The city of Austin currently measures its homeless population and its performanc
 - [Imagine Austin Indicators](https://data.austintexas.gov/stories/s/Household-Affordability/czit-acu8)
 - [Homeless Response System Performance Dashboard](https://www.austinecho.org/wp-content/uploads/2021/10/AustinCoCDashboardPhase3_20211011_update.html#annual-enrollment)
 
-This is the Point-In-Time count for Austin since .
-![](
+This is the Point-In-Time count for Austin since 2007.
+![austin_pit](austin_pit.png)
+
+Looking into the data collected by the homelessness Continuum of Care (CoC) providers and organized into a federally operated database called the Homeless Management Information System (HMIS), I discovered that the homeless population is not static at all, but actually quite dynamic. Below 
+
+![austin_coc]()
+
