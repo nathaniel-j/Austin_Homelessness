@@ -1,6 +1,6 @@
 # RETHINKING HOMELESS METRICS
 
-![homeless_pic]("picture.jpg")
+![homeless_pic]("jwj-Homeless-1417.jpg")
 
 The city of Austin currently measures its homeless population and its performance in addressing homelessness using a handfull of metrics that paint the homeless as a relatively static population that simply needs to be housed to end homelessness. Here are a few of the current dashboards in use:
 
