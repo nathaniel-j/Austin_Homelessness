@@ -48,9 +48,4 @@ From this chart it is readily apparent that programs to understand and prevent h
 ### Summary and Next Steps:
 ---
 
-In sum, I reviewed the available data and metrics for homelessness in Austin, identified trends that are not show 
-
-In sum, I imported the dataset from the Austin city data API, worked with the data using Python inside a Jupyter Notebook, visualized the data, and built a predictive model to provide context for my conclusions and provide insight for the market direction. I found that 1) There is a large gap between Austin's new housing supply and demand that has emerged during the Covid pandemic, and 2) It is possible that the gap will close by the end of 2022.
-
-Here are a few possible extensions of this project, and other considerations that I came across, that I would like to look into in the future:
-
+In sum, I reviewed the available data and metrics for homelessness in Austin, identified a core trend that is not captured with the currect metrics, and created a customizeable diagram that visualizes the dynamic nature of the homeless population to better identify and measure the success of homeless programs. What I would like to do next would be to turn this diagram into a live, interactive tool for governments and agencies to use. I would also like to pass this project along to ECHO and the HMIS data management team for their consideration. Hopefully, this project can prove useful towards the fight against homelessness. 
