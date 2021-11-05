@@ -43,8 +43,14 @@ While the flow of the unsheltered homeless population is currently very difficul
 
 ![sankey](Austin_homeless_sankey.png)
 
-From this chart it is readily apparent that programs to understand and prevent homelessness would have huge impact on overall homeless reduction. This chart compiled on a monthly or quarterly basis could give insights into seasonal patterns. Annual chart comparisons would show at a glance the effects of current programs on different areas of the homelessness cycle. 
+From this chart it is readily apparent that programs to understand and prevent homelessness would have huge impact on overall homeless reduction. This chart compiled on a monthly or quarterly basis could give insights into seasonal patterns. Annual chart comparisons would show at a glance the effects of current programs on different areas of the homelessness cycle. Using this type of chart to measure homelessness could provide government bodies and homeless care facilities better insight into the effectiveness of programs and information to help guide budget allocations and dicision making. 
 
+### Summary and Next Steps:
+---
 
+In sum, I reviewed the available data and metrics for homelessness in Austin, identified trends that are not show 
 
+In sum, I imported the dataset from the Austin city data API, worked with the data using Python inside a Jupyter Notebook, visualized the data, and built a predictive model to provide context for my conclusions and provide insight for the market direction. I found that 1) There is a large gap between Austin's new housing supply and demand that has emerged during the Covid pandemic, and 2) It is possible that the gap will close by the end of 2022.
+
+Here are a few possible extensions of this project, and other considerations that I came across, that I would like to look into in the future:
 
