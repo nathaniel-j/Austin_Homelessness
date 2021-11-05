@@ -23,3 +23,5 @@ The city of Austin currently measures its homeless population and its performanc
 - [Imagine Austin Indicators](https://data.austintexas.gov/stories/s/Household-Affordability/czit-acu8)
 - [Homeless Response System Performance Dashboard](https://www.austinecho.org/wp-content/uploads/2021/10/AustinCoCDashboardPhase3_20211011_update.html#annual-enrollment)
 
+This is the Point-In-Time count for Austin since .
+![](
